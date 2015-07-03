@@ -16,6 +16,12 @@ Installation
   * `npm install -g bower`
   * `bower install jquery-tokeninput`
 * [download source](http://loopj.com/jquery-tokeninput/)
-* [fork](https://github.com/loopj/jquery-tokeninput)
+
+Contribute
+-----------
+* [fork jquery-tokeninput](https://github.com/loopj/jquery-tokeninput)
+* `bower install && npm install`
+* `grunt uglify`
+* navigate to `/demo.html` in browser
 
 <http://loopj.com/jquery-tokeninput/>
